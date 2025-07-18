@@ -26,7 +26,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/ObjShomar.git
+   git clone https://github.com/Hamed-Gharghi/ObjShomar.git
    cd ObjShomar
    ```
 2. **Install Python 3.10+** (Recommended: 3.10, 3.11, or 3.12)
@@ -106,8 +106,8 @@ Feel free to open an issue or submit a pull request.
 ## 📬 Contact
 
 For questions, suggestions, or collaboration, feel free to reach out:
-- 💼 [GitHub](https://github.com/YourUsername)
-- 📧 Email: your.email@example.com
+- 💼 [GitHub](https://github.com/Hamed-Gharghi)
+- 📧 Email: hamed.gharghi@gmail.com
 
 ---
 
@@ -144,7 +144,7 @@ Special thanks to [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 
 ۱. **کلون کردن مخزن:**
    ```bash
-   git clone https://github.com/YourUsername/ObjShomar.git
+   git clone https://github.com/Hamed-Gharghi/ObjShomar.git
    cd ObjShomar
    ```
 ۲. **نصب پایتون ۳.۱۰ یا بالاتر (پیشنهادی: ۳.۱۰، ۳.۱۱ یا ۳.۱۲)**
@@ -224,9 +224,8 @@ MIT
 ## 📬 ارتباط
 
 برای سوال، پیشنهاد یا همکاری:
-- 💼 [GitHub](https://github.com/YourUsername)
-- 📧 ایمیل: your.email@example.com
-
+- 💼 [GitHub](https://github.com/Hamed-Gharghi)
+- 📧 ایمیل: hamed.gharghi@gmail.com
 ---
 
 ## 🏷️ کلیدواژه‌ها
